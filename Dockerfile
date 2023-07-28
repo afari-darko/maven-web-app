@@ -4,4 +4,4 @@ MAINTAINER Festus <afari-darko@outlook.com>
 
 COPY target/mavendockerapp.war /home/tomcat/webapps/mavendockerapp.war
 
-EXPOSE 8080
+EXPOSE 10000
