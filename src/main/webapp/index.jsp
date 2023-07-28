@@ -1,10 +1,10 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to gogeek.local - Software Training Institute <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href="https://gogeek.local/online-training-schedules">Click Here To See gogeek.local Training Schedules</a>
   
-  <h2> Call Us : + 91 - 99 85 39 66 77 </h2>
+  <h2> Call Us : + 44 123456789 </h2>
 
 </body>
 </html>
